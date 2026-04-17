@@ -40,4 +40,5 @@ footer {
     border: 10px solid black;
     position: sticky;
     bottom: 0px;
+    background-color: yellow;
 }
